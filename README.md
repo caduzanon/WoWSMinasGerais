@@ -1,7 +1,7 @@
 # WoWSMinasGerais
  Modification for World of Warships that turns Colossus into Minas Gerais.
 
-#Installation
+# Installation
 1 - Click the "Code" button, download the ZIP file.
 2 - Once you have the file downloaded, extract it. When extracted, a folder called "PnFMods", a folder called "content" and a Python file called "PnFModsLoader.py" will appear.
 3.1. - If this is your first time installing a mod, you will need to go where your World of Warships client is installed. The usual path is:
