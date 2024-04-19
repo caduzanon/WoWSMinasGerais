@@ -1,0 +1,7 @@
+<AGA175_40mm_Bofors_Mk2_MK19.model>
+	<castsShadow>	true	</castsShadow>
+	<parent>	PnFMods/MinasGerais/BSA528_Colossus/ship/lods/BSA013_Colossus_1945_MidFront_lod1	</parent>
+	<extent>	3.0000	</extent>
+	<nodefullVisual>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_MidFront	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AGA175_40mm_Bofors_Mk2_MK19.model>
