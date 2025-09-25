@@ -17,20 +17,19 @@
 			</transform>
 		</node>
 	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Bofors_dead	</node>
-		<geometry>
-			<vertices>	Bofors_deadShape.vertices	</vertices>
-			<primitive>	Bofors_deadShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	TL2_SHIPMAT_PBS_GunDead	</identifier>
-					<mfm>	PnFMods/MinasGerais/BSA528_Colossus/gun/AGA056_40mm_Bofors_dead.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
+	<renderSets>
+		<renderSet>
+			<name>Bofors_deadShape</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bofors_dead	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_GunDead	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/gun/AGA056_40mm_Bofors_dead.mfm	</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
 	<boundingBox>
 		<min>	-0.1384 0.0000 -0.1042	</min>
 		<max>	0.1411 0.1612 0.1657	</max>

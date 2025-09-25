@@ -1,183 +1,68 @@
 <BSA013_Colossus_1945_MidFront.visual>
-	<node>
-		<identifier>Scene Root</identifier>
-		<transform>
-			<row0>1.000000 0.000000 0.000000</row0>
-			<row1>0.000000 1.000000 0.000000</row1>
-			<row2>0.000000 0.000000 1.000000</row2>
-			<row3>0.000000 0.000000 0.000000</row3>
-		</transform>
+	<skeleton>
 		<node>
-			<identifier>Bofors</identifier>
+			<identifier>Scene Root</identifier>
 			<transform>
 				<row0>1.000000 0.000000 0.000000</row0>
 				<row1>0.000000 1.000000 0.000000</row1>
 				<row2>0.000000 0.000000 1.000000</row2>
-				<row3>0.923208 1.235976 1.976352</row3>
+				<row3>0.000000 0.000000 0.000000</row3>
 			</transform>
 			<node>
-				<identifier>Bofors_wire</identifier>
+				<identifier>Bofors</identifier>
 				<transform>
 					<row0>1.000000 0.000000 0.000000</row0>
 					<row1>0.000000 1.000000 0.000000</row1>
 					<row2>0.000000 0.000000 1.000000</row2>
-					<row3>0.000000 0.000000 0.000000</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>HP_gunFire1</identifier>
-				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
-					<row1>0.000000 0.866000 0.000000</row1>
-					<row2>0.000000 0.000000 0.866000</row2>
-					<row3>0.059500 0.198900 0.139500</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>HP_gunFire2</identifier>
-				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
-					<row1>0.000000 0.866000 0.000000</row1>
-					<row2>0.000000 0.000000 0.866000</row2>
-					<row3>0.042100 0.198900 0.139500</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>HP_gunFire3</identifier>
-				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
-					<row1>0.000000 0.866000 0.000000</row1>
-					<row2>0.000000 0.000000 0.866000</row2>
-					<row3>-0.042100 0.198900 0.139500</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>HP_gunFire4</identifier>
-				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
-					<row1>0.000000 0.866000 0.000000</row1>
-					<row2>0.000000 0.000000 0.866000</row2>
-					<row3>-0.059500 0.198900 0.139500</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>Radar_MK19_Net</identifier>
-				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
-					<row1>0.000000 1.000000 0.000000</row1>
-					<row2>0.000000 0.000000 1.000000</row2>
-					<row3>0.000000 0.000000 0.000000</row3>
-				</transform>
-			</node>
-		</node>
-		<node>
-			<identifier>Bofors_INDEX_1</identifier>
-			<transform>
-				<row0>-1.000000 0.000000 0.000000</row0>
-				<row1>0.000000 1.000000 0.000000</row1>
-				<row2>0.000000 0.000000 -1.000000</row2>
-				<row3>0.921477 1.108079 -0.067783</row3>
-			</transform>
-			<node>
-				<identifier>Bofors_wire_INDEX_1</identifier>
-				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
-					<row1>0.000000 1.000000 0.000000</row1>
-					<row2>0.000000 0.000000 1.000000</row2>
-					<row3>0.000000 0.000000 0.000000</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>HP_gunFire1_INDEX_1</identifier>
-				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
-					<row1>0.000000 0.866000 0.000000</row1>
-					<row2>0.000000 0.000000 0.866000</row2>
-					<row3>0.059500 0.198900 0.139500</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>HP_gunFire2_INDEX_1</identifier>
-				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
-					<row1>0.000000 0.866000 0.000000</row1>
-					<row2>0.000000 0.000000 0.866000</row2>
-					<row3>0.042100 0.198900 0.139500</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>HP_gunFire3_INDEX_1</identifier>
-				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
-					<row1>0.000000 0.866000 0.000000</row1>
-					<row2>0.000000 0.000000 0.866000</row2>
-					<row3>-0.042100 0.198900 0.139500</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>HP_gunFire4_INDEX_1</identifier>
-				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
-					<row1>0.000000 0.866000 0.000000</row1>
-					<row2>0.000000 0.000000 0.866000</row2>
-					<row3>-0.059500 0.198900 0.139500</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>Radar_MK19_Net_INDEX_1</identifier>
-				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
-					<row1>0.000000 1.000000 0.000000</row1>
-					<row2>0.000000 0.000000 1.000000</row2>
-					<row3>0.000000 0.000000 0.000000</row3>
-				</transform>
-			</node>
-		</node>
-		<node>
-			<identifier>MidFront</identifier>
-			<transform>
-				<row0>1.000000 0.000000 0.000000</row0>
-				<row1>0.000000 1.000000 0.000000</row1>
-				<row2>0.000000 0.000000 1.000000</row2>
-				<row3>0.023200 0.000000 0.764000</row3>
-			</transform>
-			<node>
-				<identifier>AGA002_40mm_Bofors_Mk1</identifier>
-				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
-					<row1>0.000000 1.000000 0.000000</row1>
-					<row2>0.000000 0.000000 1.000000</row2>
-					<row3>0.000000 0.000000 0.000000</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>Antenna</identifier>
-				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
-					<row1>0.000000 1.000000 0.000000</row1>
-					<row2>0.000000 0.000000 1.000000</row2>
-					<row3>0.000000 0.000000 0.000000</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>Antenna_Details</identifier>
-				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
-					<row1>0.000000 1.000000 0.000000</row1>
-					<row2>0.000000 0.000000 1.000000</row2>
-					<row3>0.000000 0.000000 0.000000</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>MidFront_crack_Bow</identifier>
-				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
-					<row1>0.000000 1.000000 0.000000</row1>
-					<row2>0.000000 0.000000 1.000000</row2>
-					<row3>0.000000 0.000000 0.000000</row3>
+					<row3>0.923208 1.235976 1.976352</row3>
 				</transform>
 				<node>
-					<identifier>MidFront_crack_Bow_in</identifier>
+					<identifier>Bofors_wire</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 1.000000 0.000000</row1>
+						<row2>0.000000 0.000000 1.000000</row2>
+						<row3>0.000000 0.000000 0.000000</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>HP_gunFire1</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 0.866000 0.000000</row1>
+						<row2>0.000000 0.000000 0.866000</row2>
+						<row3>0.059500 0.198900 0.139500</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>HP_gunFire2</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 0.866000 0.000000</row1>
+						<row2>0.000000 0.000000 0.866000</row2>
+						<row3>0.042100 0.198900 0.139500</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>HP_gunFire3</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 0.866000 0.000000</row1>
+						<row2>0.000000 0.000000 0.866000</row2>
+						<row3>-0.042100 0.198900 0.139500</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>HP_gunFire4</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 0.866000 0.000000</row1>
+						<row2>0.000000 0.000000 0.866000</row2>
+						<row3>-0.059500 0.198900 0.139500</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>Radar_MK19_Net</identifier>
 					<transform>
 						<row0>1.000000 0.000000 0.000000</row0>
 						<row1>0.000000 1.000000 0.000000</row1>
@@ -187,15 +72,60 @@
 				</node>
 			</node>
 			<node>
-				<identifier>MidFront_crack_MidBack</identifier>
+				<identifier>Bofors_INDEX_1</identifier>
 				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
+					<row0>-1.000000 0.000000 0.000000</row0>
 					<row1>0.000000 1.000000 0.000000</row1>
-					<row2>0.000000 0.000000 1.000000</row2>
-					<row3>0.000000 0.000000 0.000000</row3>
+					<row2>0.000000 0.000000 -1.000000</row2>
+					<row3>0.921477 1.108079 -0.067783</row3>
 				</transform>
 				<node>
-					<identifier>MidFront_crack_MidBack_in</identifier>
+					<identifier>Bofors_wire_INDEX_1</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 1.000000 0.000000</row1>
+						<row2>0.000000 0.000000 1.000000</row2>
+						<row3>0.000000 0.000000 0.000000</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>HP_gunFire1_INDEX_1</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 0.866000 0.000000</row1>
+						<row2>0.000000 0.000000 0.866000</row2>
+						<row3>0.059500 0.198900 0.139500</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>HP_gunFire2_INDEX_1</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 0.866000 0.000000</row1>
+						<row2>0.000000 0.000000 0.866000</row2>
+						<row3>0.042100 0.198900 0.139500</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>HP_gunFire3_INDEX_1</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 0.866000 0.000000</row1>
+						<row2>0.000000 0.000000 0.866000</row2>
+						<row3>-0.042100 0.198900 0.139500</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>HP_gunFire4_INDEX_1</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 0.866000 0.000000</row1>
+						<row2>0.000000 0.000000 0.866000</row2>
+						<row3>-0.059500 0.198900 0.139500</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>Radar_MK19_Net_INDEX_1</identifier>
 					<transform>
 						<row0>1.000000 0.000000 0.000000</row0>
 						<row1>0.000000 1.000000 0.000000</row1>
@@ -205,458 +135,798 @@
 				</node>
 			</node>
 			<node>
-				<identifier>MidFront_DeckHouse</identifier>
+				<identifier>MidFront</identifier>
 				<transform>
 					<row0>1.000000 0.000000 0.000000</row0>
 					<row1>0.000000 1.000000 0.000000</row1>
 					<row2>0.000000 0.000000 1.000000</row2>
-					<row3>0.000000 0.000000 0.000000</row3>
+					<row3>0.023200 0.000000 0.764000</row3>
 				</transform>
-			</node>
-			<node>
-				<identifier>MidFront_Glass</identifier>
-				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
-					<row1>0.000000 1.000000 0.000000</row1>
-					<row2>0.000000 0.000000 1.000000</row2>
-					<row3>0.000000 0.000000 0.000000</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>MidFront_Net</identifier>
-				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
-					<row1>0.000000 1.000000 0.000000</row1>
-					<row2>0.000000 0.000000 1.000000</row2>
-					<row3>0.000000 0.000000 0.000000</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>MidFront_patch_MidBack</identifier>
-				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
-					<row1>0.000000 1.000000 0.000000</row1>
-					<row2>0.000000 0.000000 1.000000</row2>
-					<row3>0.000000 0.000000 0.000000</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>MidFront_wire</identifier>
-				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
-					<row1>0.000000 1.000000 0.000000</row1>
-					<row2>0.000000 0.000000 1.000000</row2>
-					<row3>0.000000 0.000000 0.000000</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>Radar-FakeSPS8</identifier>
-				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
-					<row1>0.000000 1.000000 0.000000</row1>
-					<row2>0.000000 0.000000 1.000000</row2>
-					<row3>0.000000 0.000000 0.000000</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>Radar-SPS-12</identifier>
-				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
-					<row1>0.000000 1.000000 0.000000</row1>
-					<row2>0.000000 0.000000 1.000000</row2>
-					<row3>0.000000 0.000000 0.000000</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>RadarB</identifier>
-				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
-					<row1>0.000000 1.000000 0.000000</row1>
-					<row2>0.000000 0.000000 1.000000</row2>
-					<row3>0.000000 0.000000 0.000000</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>RadarB_INDEX_1</identifier>
-				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
-					<row1>0.000000 1.000000 0.000000</row1>
-					<row2>0.000000 0.000000 1.000000</row2>
-					<row3>0.000000 0.000000 0.000000</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>RadarB_INDEX_2</identifier>
-				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
-					<row1>0.000000 1.000000 0.000000</row1>
-					<row2>0.000000 0.000000 1.000000</row2>
-					<row3>0.000000 0.000000 0.000000</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>ShipEmblem</identifier>
-				<transform>
-					<row0>1.000000 0.000000 0.000000</row0>
-					<row1>0.000000 1.000000 0.000000</row1>
-					<row2>0.000000 0.000000 1.000000</row2>
-					<row3>0.000000 0.000000 0.000000</row3>
-				</transform>
+				<node>
+					<identifier>AGA002_40mm_Bofors_Mk1</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 1.000000 0.000000</row1>
+						<row2>0.000000 0.000000 1.000000</row2>
+						<row3>0.000000 0.000000 0.000000</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>Antenna</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 1.000000 0.000000</row1>
+						<row2>0.000000 0.000000 1.000000</row2>
+						<row3>0.000000 0.000000 0.000000</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>Antenna_Details</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 1.000000 0.000000</row1>
+						<row2>0.000000 0.000000 1.000000</row2>
+						<row3>0.000000 0.000000 0.000000</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>MidFront_crack_Bow</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 1.000000 0.000000</row1>
+						<row2>0.000000 0.000000 1.000000</row2>
+						<row3>0.000000 0.000000 0.000000</row3>
+					</transform>
+					<node>
+						<identifier>MidFront_crack_Bow_in</identifier>
+						<transform>
+							<row0>1.000000 0.000000 0.000000</row0>
+							<row1>0.000000 1.000000 0.000000</row1>
+							<row2>0.000000 0.000000 1.000000</row2>
+							<row3>0.000000 0.000000 0.000000</row3>
+						</transform>
+					</node>
+				</node>
+				<node>
+					<identifier>MidFront_crack_MidBack</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 1.000000 0.000000</row1>
+						<row2>0.000000 0.000000 1.000000</row2>
+						<row3>0.000000 0.000000 0.000000</row3>
+					</transform>
+					<node>
+						<identifier>MidFront_crack_MidBack_in</identifier>
+						<transform>
+							<row0>1.000000 0.000000 0.000000</row0>
+							<row1>0.000000 1.000000 0.000000</row1>
+							<row2>0.000000 0.000000 1.000000</row2>
+							<row3>0.000000 0.000000 0.000000</row3>
+						</transform>
+					</node>
+				</node>
+				<node>
+					<identifier>MidFront_DeckHouse</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 1.000000 0.000000</row1>
+						<row2>0.000000 0.000000 1.000000</row2>
+						<row3>0.000000 0.000000 0.000000</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>MidFront_Glass</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 1.000000 0.000000</row1>
+						<row2>0.000000 0.000000 1.000000</row2>
+						<row3>0.000000 0.000000 0.000000</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>MidFront_Net</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 1.000000 0.000000</row1>
+						<row2>0.000000 0.000000 1.000000</row2>
+						<row3>0.000000 0.000000 0.000000</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>MidFront_patch_MidBack</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 1.000000 0.000000</row1>
+						<row2>0.000000 0.000000 1.000000</row2>
+						<row3>0.000000 0.000000 0.000000</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>MidFront_wire</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 1.000000 0.000000</row1>
+						<row2>0.000000 0.000000 1.000000</row2>
+						<row3>0.000000 0.000000 0.000000</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>Radar-FakeSPS8</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 1.000000 0.000000</row1>
+						<row2>0.000000 0.000000 1.000000</row2>
+						<row3>0.000000 0.000000 0.000000</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>Radar-SPS-12</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 1.000000 0.000000</row1>
+						<row2>0.000000 0.000000 1.000000</row2>
+						<row3>0.000000 0.000000 0.000000</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>RadarB</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 1.000000 0.000000</row1>
+						<row2>0.000000 0.000000 1.000000</row2>
+						<row3>0.000000 0.000000 0.000000</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>RadarB_INDEX_1</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 1.000000 0.000000</row1>
+						<row2>0.000000 0.000000 1.000000</row2>
+						<row3>0.000000 0.000000 0.000000</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>RadarB_INDEX_2</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 1.000000 0.000000</row1>
+						<row2>0.000000 0.000000 1.000000</row2>
+						<row3>0.000000 0.000000 0.000000</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>ShipEmblem</identifier>
+					<transform>
+						<row0>1.000000 0.000000 0.000000</row0>
+						<row1>0.000000 1.000000 0.000000</row1>
+						<row2>0.000000 0.000000 1.000000</row2>
+						<row3>0.000000 0.000000 0.000000</row3>
+					</transform>
+				</node>
 			</node>
 		</node>
-	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
-		<node>AGA002_40mm_Bofors_Mk1</node>
-		<geometry>
-			<vertices>AGA002_40mm_Bofors_Mk1Shape.vertices</vertices>
-			<primitive>AGA002_40mm_Bofors_Mk1Shape.indices</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>TL2_SHIPMAT_PBS_BoforsMk1Material</identifier>
-					<mfm>PnFMods/MinasGerais/BSA528_Colossus/gun/AGA002_40mm_Bofors_Mk1.mfm</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
-		<node>Antenna_Details</node>
-		<geometry>
-			<vertices>Antenna_DetailsShape.vertices</vertices>
-			<primitive>Antenna_DetailsShape.indices</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>TL2_SHIPMAT_PBS_AntennaMaterial</identifier>
-					<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/ShipAntenna.mfm</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
-		<node>Antenna</node>
-		<geometry>
-			<vertices>AntennaShape.vertices</vertices>
-			<primitive>AntennaShape.indices</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>TL2_SHIPMAT_PBS_AntennaMaterial</identifier>
-					<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/ShipAntenna.mfm</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
-		<node>Bofors_wire</node>
-		<geometry>
-			<vertices>Bofors_wireShape.vertices</vertices>
-			<primitive>Bofors_wireShape.indices</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>TL2_SHIPWIRE_PBS_Gun</identifier>
-					<mfm>PnFMods/MinasGerais/BSA528_Colossus/gun/AGA056_40mm_Bofors_wire.mfm</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
-		<node>Bofors_wire_INDEX_1</node>
-		<geometry>
-			<vertices>Bofors_wireShape_INDEX_1.vertices</vertices>
-			<primitive>Bofors_wireShape_INDEX_1.indices</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>TL2_SHIPWIRE_PBS_Gun</identifier>
-					<mfm>PnFMods/MinasGerais/BSA528_Colossus/gun/AGA056_40mm_Bofors_wire.mfm</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
-		<node>Bofors</node>
-		<geometry>
-			<vertices>BoforsShape.vertices</vertices>
-			<primitive>BoforsShape.indices</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>TL2_SHIPMAT_PBS_Gun</identifier>
-					<mfm>PnFMods/MinasGerais/BSA528_Colossus/gun/AGA056_40mm_Bofors.mfm</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
-		<node>Bofors_INDEX_1</node>
-		<geometry>
-			<vertices>BoforsShape_INDEX_1.vertices</vertices>
-			<primitive>BoforsShape_INDEX_1.indices</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>TL2_SHIPMAT_PBS_Gun</identifier>
-					<mfm>PnFMods/MinasGerais/BSA528_Colossus/gun/AGA056_40mm_Bofors.mfm</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
-		<node>MidFront_crack_Bow_in</node>
-		<geometry>
-			<vertices>MidFront_crack_Bow_inShape.vertices</vertices>
-			<primitive>MidFront_crack_Bow_inShape.indices</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>SHIPMAT_PBS_Crack</identifier>
-					<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/C002_Razlom.mfm</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
-		<node>MidFront_crack_Bow</node>
-		<geometry>
-			<vertices>MidFront_crack_BowShape.vertices</vertices>
-			<primitive>MidFront_crack_BowShape.indices</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>TL2_SHIPMAT_PBS_Hull</identifier>
-					<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
-		<node>MidFront_crack_MidBack_in</node>
-		<geometry>
-			<vertices>MidFront_crack_MidBack_inShape.vertices</vertices>
-			<primitive>MidFront_crack_MidBack_inShape.indices</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>SHIPMAT_PBS_Crack</identifier>
-					<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/C002_Razlom.mfm</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
-		<node>MidFront_crack_MidBack</node>
-		<geometry>
-			<vertices>MidFront_crack_MidBackShape.vertices</vertices>
-			<primitive>MidFront_crack_MidBackShape.indices</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>TL2_SHIPMAT_PBS_Hull</identifier>
-					<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
-		<node>MidFront_DeckHouse</node>
-		<geometry>
-			<vertices>MidFront_DeckHouseShape.vertices</vertices>
-			<primitive>MidFront_DeckHouseShape.indices</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>TL2_SHIPMAT_PBS_DeckHouse</identifier>
-					<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Deckhouse.mfm</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
-		<node>MidFront_Glass</node>
-		<geometry>
-			<vertices>MidFront_glassShape.vertices</vertices>
-			<primitive>MidFront_glassShape.indices</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>SHIPGLASS_PBS_Hull</identifier>
-					<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/transparent_glass_alpha.mfm</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
-		<node>MidFront_Net</node>
-		<geometry>
-			<vertices>MidFront_NetShape.vertices</vertices>
-			<primitive>MidFront_NetShape.indices</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>GRID_Misc</identifier>
-					<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/C006_Grid_3_alpha.mfm</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
-		<node>MidFront_patch_MidBack</node>
-		<geometry>
-			<vertices>MidFront_patch_MidBackShape.vertices</vertices>
-			<primitive>MidFront_patch_MidBackShape.indices</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>TL2_SHIPMAT_PBS_Hull</identifier>
-					<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
-		<node>MidFront_wire</node>
-		<geometry>
-			<vertices>MidFront_wireShape.vertices</vertices>
-			<primitive>MidFront_wireShape.indices</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>TL2_SHIPMAT_PBS_Hull</identifier>
-					<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
-		<node>MidFront</node>
-		<geometry>
-			<vertices>MidFrontShape.vertices</vertices>
-			<primitive>MidFrontShape.indices</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>TL2_SHIPMAT_PBS_Hull</identifier>
-					<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
-		<node>Radar-FakeSPS8</node>
-		<geometry>
-			<vertices>Radar-FakeSPS8Shape.vertices</vertices>
-			<primitive>Radar-FakeSPS8Shape.indices</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>TL2_SHIPMAT_PBS_FakeSPS8Material</identifier>
-					<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/SPS8.mfm</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
-		<node>Radar-SPS-12</node>
-		<geometry>
-			<vertices>Radar-SPS-12Shape.vertices</vertices>
-			<primitive>Radar-SPS-12Shape.indices</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>TL2_SHIPMAT_PBS_SPS12Material</identifier>
-					<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/SPS12.mfm</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
-		<node>Radar_MK19_Net</node>
-		<geometry>
-			<vertices>Radar_MK19_NetShape.vertices</vertices>
-			<primitive>Radar_MK19_NetShape.indices</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>GRID_Misc</identifier>
-					<mfm>PnFMods/MinasGerais/BSA528_Colossus/gun/C004_Grid_1_alpha.mfm</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
-		<node>Radar_MK19_Net_INDEX_1</node>
-		<geometry>
-			<vertices>Radar_MK19_NetShape_INDEX_1.vertices</vertices>
-			<primitive>Radar_MK19_NetShape_INDEX_1.indices</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>GRID_Misc</identifier>
-					<mfm>PnFMods/MinasGerais/BSA528_Colossus/gun/C004_Grid_1_alpha.mfm</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
-		<node>RadarB_INDEX_1</node>
-		<geometry>
-			<vertices>RadarB_INDEX_1Shape.vertices</vertices>
-			<primitive>RadarB_INDEX_1Shape.indices</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>TL2_SHIPMAT_PBS_RadarBMaterial</identifier>
-					<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/RadarB.mfm</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
-		<node>RadarB_INDEX_2</node>
-		<geometry>
-			<vertices>RadarB_INDEX_2Shape.vertices</vertices>
-			<primitive>RadarB_INDEX_2Shape.indices</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>TL2_SHIPMAT_PBS_RadarBMaterial</identifier>
-					<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/RadarB.mfm</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
-		<node>RadarB</node>
-		<geometry>
-			<vertices>RadarBShape.vertices</vertices>
-			<primitive>RadarBShape.indices</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>TL2_SHIPMAT_PBS_RadarBMaterial</identifier>
-					<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/RadarB.mfm</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
-		<node>ShipEmblem</node>
-		<geometry>
-			<vertices>ShipEmblemShape.vertices</vertices>
-			<primitive>ShipEmblemShape.indices</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>TL2_SHIPMAT_PBS_EmblemMaterial</identifier>
-					<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/Emblem.mfm</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
 	<boundingBox>
-		<min>	-1.920288 -0.520460 -7.198745	</min>
-		<max>	1.216825 2.579434 7.533906	</max>
+		<min>	-1.800504 -0.520460 -7.198745	</min>
+		<max>	1.205264 2.579434 7.533906	</max>
 	</boundingBox>
+	<renderSets>
+		<renderSet>
+			<name>	BoforsShape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bofors	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_Gun</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/gun/AGA056_40mm_Bofors.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bofors_wireShape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bofors_wire	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPWIRE_PBS_Gun</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/gun/AGA056_40mm_Bofors_wire.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bofors_wire_lod1Shape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bofors_wire	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPWIRE_PBS_Gun</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/gun/AGA056_40mm_Bofors_wire.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Radar_MK19_NetShape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Radar_MK19_Net	</node>
+			</nodes>
+			<material>
+				<identifier>GRID_Misc</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/gun/C004_Grid_1_alpha.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Radar_MK19_Net_lod1Shape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Radar_MK19_Net	</node>
+			</nodes>
+			<material>
+				<identifier>GRID_Misc</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/gun/C004_Grid_1_alpha.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bofors_lod1Shape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bofors	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_Gun</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/gun/AGA056_40mm_Bofors.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	BoforsShape_INDEX_1	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bofors_INDEX_1	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_Gun</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/gun/AGA056_40mm_Bofors.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bofors_wireShape_INDEX_1	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bofors_wire_INDEX_1	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPWIRE_PBS_Gun</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/gun/AGA056_40mm_Bofors_wire.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bofors_wire_lod1Shape_INDEX_1	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bofors_wire_INDEX_1	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPWIRE_PBS_Gun</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/gun/AGA056_40mm_Bofors_wire.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Radar_MK19_NetShape_INDEX_1	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Radar_MK19_Net_INDEX_1	</node>
+			</nodes>
+			<material>
+				<identifier>GRID_Misc</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/gun/C004_Grid_1_alpha.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Radar_MK19_Net_lod1Shape_INDEX_1	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Radar_MK19_Net_INDEX_1	</node>
+			</nodes>
+			<material>
+				<identifier>GRID_Misc</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/gun/C004_Grid_1_alpha.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bofors_lod1Shape_INDEX_1	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bofors_INDEX_1	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_Gun</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/gun/AGA056_40mm_Bofors.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidFrontShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidFront	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	AGA002_40mm_Bofors_Mk1Shape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	AGA002_40mm_Bofors_Mk1	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_BoforsMk1Material</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/gun/AGA002_40mm_Bofors_Mk1.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	AGA002_40mm_Bofors_Mk1_lod1Shape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	AGA002_40mm_Bofors_Mk1	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_BoforsMk1Material</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/gun/AGA002_40mm_Bofors_Mk1.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	AntennaShape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Antenna	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_AntennaMaterial</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/ShipAntenna.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Antenna_lod1Shape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Antenna	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_AntennaMaterial</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/ShipAntenna.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Antenna_DetailsShape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Antenna_Details	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_AntennaMaterial</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/ShipAntenna.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Antenna_Details_lod1Shape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Antenna_Details	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_AntennaMaterial</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/ShipAntenna.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidFront_crack_BowShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidFront_crack_Bow	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidFront_crack_Bow_inShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidFront_crack_Bow_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMAT_PBS_Crack	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidFront_crack_Bow_in_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidFront_crack_Bow_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMAT_PBS_Crack	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidFront_crack_Bow_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidFront_crack_Bow	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidFront_crack_MidBackShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidFront_crack_MidBack	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidFront_crack_MidBack_inShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidFront_crack_MidBack_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMAT_PBS_Crack	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidFront_crack_MidBack_in_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidFront_crack_MidBack_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMAT_PBS_Crack	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidFront_crack_MidBack_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidFront_crack_MidBack	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidFront_DeckHouseShape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidFront_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_DeckHouse</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Deckhouse.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidFront_DeckHouse_lod1Shape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidFront_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_DeckHouse</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Deckhouse.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidFront_GlassShape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidFront_Glass	</node>
+			</nodes>
+			<material>
+				<identifier>SHIPGLASS_PBS_Hull</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/transparent_glass_alpha.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidFront_Glass_lod1Shape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidFront_Glass	</node>
+			</nodes>
+			<material>
+				<identifier>SHIPGLASS_PBS_Hull</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/transparent_glass_alpha.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidFront_NetShape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidFront_Net	</node>
+			</nodes>
+			<material>
+				<identifier>GRID_Misc</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/C006_Grid_3_alpha.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidFront_Net_lod1Shape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidFront_Net	</node>
+			</nodes>
+			<material>
+				<identifier>GRID_Misc</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/C006_Grid_3_alpha.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidFront_wireShape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidFront_wire	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_Hull</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidFront_wire_lod1Shape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidFront_wire	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_Hull</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Radar-FakeSPS8Shape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Radar-FakeSPS8	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_FakeSPS8Material</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/SPS8.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Radar-FakeSPS8_lod1Shape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Radar-FakeSPS8	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_FakeSPS8Material</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/SPS8.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Radar-SPS-12Shape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Radar-SPS-12	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_SPS12Material</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/SPS12.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Radar-SPS-12_lod1Shape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Radar-SPS-12	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_SPS12Material</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/SPS12.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	RadarBShape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	RadarB	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_RadarBMaterial</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/RadarB.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	RadarB_lod1Shape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	RadarB	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_RadarBMaterial</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/RadarB.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	RadarB_INDEX_1Shape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	RadarB_INDEX_1	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_RadarBMaterial</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/RadarB.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	RadarB_INDEX_1_lod1Shape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	RadarB_INDEX_1	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_RadarBMaterial</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/RadarB.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	RadarB_INDEX_2Shape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	RadarB_INDEX_2	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_RadarBMaterial</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/RadarB.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	RadarB_INDEX_2_lod1Shape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	RadarB_INDEX_2	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_RadarBMaterial</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/RadarB.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	ShipEmblemShape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	ShipEmblem	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_EmblemMaterial</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/Emblem.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	ShipEmblem_lod1Shape	</name>
+			<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	ShipEmblem	</node>
+			</nodes>
+			<material>
+				<identifier>TL2_SHIPMAT_PBS_EmblemMaterial</identifier>
+				<mfm>PnFMods/MinasGerais/BSA528_Colossus/ship/Emblem.mfm</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidFront_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidFront	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidFront_patch_MidBackShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidFront_patch_MidBack	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidFront_patch_MidBack_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	MidFront_patch_MidBack	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>	12.0000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets>
+				<renderSet>	BoforsShape	</renderSet>
+				<renderSet>	Bofors_wireShape	</renderSet>
+				<renderSet>	Radar_MK19_NetShape	</renderSet>
+				<renderSet>	BoforsShape_INDEX_1	</renderSet>
+				<renderSet>	Bofors_wireShape_INDEX_1	</renderSet>
+				<renderSet>	Radar_MK19_NetShape_INDEX_1	</renderSet>
+				<renderSet>	MidFrontShape	</renderSet>
+				<renderSet>	AntennaShape	</renderSet>
+				<renderSet>	Antenna_DetailsShape	</renderSet>
+				<renderSet>	MidFront_crack_BowShape	</renderSet>
+				<renderSet>	MidFront_crack_Bow_inShape	</renderSet>
+				<renderSet>	MidFront_crack_MidBackShape	</renderSet>
+				<renderSet>	MidFront_crack_MidBack_inShape	</renderSet>
+				<renderSet>	MidFront_DeckHouseShape	</renderSet>
+				<renderSet>	MidFront_GlassShape	</renderSet>
+				<renderSet>	MidFront_NetShape	</renderSet>
+				<renderSet>	MidFront_patch_MidBackShape	</renderSet>
+				<renderSet>	MidFront_wireShape	</renderSet>
+				<renderSet>	Radar-FakeSPS8Shape	</renderSet>
+				<renderSet>	Radar-SPS-12Shape	</renderSet>
+				<renderSet>	RadarBShape	</renderSet>
+				<renderSet>	RadarB_INDEX_1Shape	</renderSet>
+				<renderSet>	RadarB_INDEX_2Shape	</renderSet>
+				<renderSet>	ShipEmblemShape	</renderSet>				
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	400.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Bofors_lod1Shape	</renderSet>
+				<renderSet>	Bofors_wire_lod1Shape	</renderSet>
+				<renderSet>	Radar_MK19_Net_lod1Shape	</renderSet>
+				<renderSet>	Bofors_lod1Shape_INDEX_1	</renderSet>
+				<renderSet>	Bofors_wire_lod1Shape_INDEX_1	</renderSet>
+				<renderSet>	Radar_MK19_Net_lod1Shape_INDEX_1	</renderSet>
+				<renderSet>	MidFront_lod1Shape	</renderSet>
+				<renderSet>	Antenna_lod1Shape	</renderSet>
+				<renderSet>	Antenna_Details_lod1Shape	</renderSet>
+				<renderSet>	MidFront_crack_Bow_lod1Shape	</renderSet>
+				<renderSet>	MidFront_crack_Bow_in_lod1Shape	</renderSet>
+				<renderSet>	MidFront_crack_MidBack_lod1Shape	</renderSet>
+				<renderSet>	MidFront_crack_MidBack_in_lod1Shape	</renderSet>
+				<renderSet>	MidFront_DeckHouse_lod1Shape	</renderSet>
+				<renderSet>	MidFront_Glass_lod1Shape	</renderSet>
+				<renderSet>	MidFront_Net_lod1Shape	</renderSet>
+				<renderSet>	MidFront_patch_MidBack_lod1Shape	</renderSet>
+				<renderSet>	MidFront_wire_lod1Shape	</renderSet>
+				<renderSet>	Radar-FakeSPS8_lod1Shape	</renderSet>
+				<renderSet>	Radar-SPS-12_lod1Shape	</renderSet>
+				<renderSet>	RadarB_lod1Shape	</renderSet>
+				<renderSet>	RadarB_INDEX_1_lod1Shape	</renderSet>
+				<renderSet>	RadarB_INDEX_2_lod1Shape	</renderSet>
+				<renderSet>	ShipEmblem_lod1Shape	</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
 </BSA013_Colossus_1945_MidFront.visual>

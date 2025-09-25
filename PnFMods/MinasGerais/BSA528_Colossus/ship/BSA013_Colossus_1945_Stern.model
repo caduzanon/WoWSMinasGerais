@@ -1,7 +1,6 @@
 <BSA013_Colossus_1945_Stern.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/MinasGerais/BSA528_Colossus/ship/lods/BSA013_Colossus_1945_Stern_lod1	</parent>
-	<extent>	12.0000	</extent>
-	<nodefullVisual>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Stern	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Stern.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </BSA013_Colossus_1945_Stern.model>

@@ -1,7 +1,6 @@
 <APR003_FFAR.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/MinasGerais/BSA528_Colossus/projectile/lods/APR003_FFAR_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/MinasGerais/BSA528_Colossus/projectile/APR003_FFAR	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/MinasGerais/BSA528_Colossus/projectile/APR003_FFAR.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </APR003_FFAR.model>

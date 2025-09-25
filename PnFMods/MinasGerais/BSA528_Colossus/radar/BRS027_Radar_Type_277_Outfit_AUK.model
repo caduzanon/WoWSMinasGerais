@@ -1,7 +1,8 @@
 <BRS027_Radar_Type_277_Outfit_AUK.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/MinasGerais/BSA528_Colossus/radar/lods/BRS027_Radar_Type_277_Outfit_AUK_lod1	</parent>
-	<extent>	2.0000	</extent>
-	<nodefullVisual>	PnFMods/MinasGerais/BSA528_Colossus/radar/BRS027_Radar_Type_277_Outfit_AUK	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/MinasGerais/BSA528_Colossus/radar/BRS027_Radar_Type_277_Outfit_AUK.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/legacy/gameplay/BRS027_Radar_Type_277_Outfit_AUK/BRS027_Radar_Type_277_Outfit_AUK.ssm	</animation>
+	</animations>
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </BRS027_Radar_Type_277_Outfit_AUK.model>

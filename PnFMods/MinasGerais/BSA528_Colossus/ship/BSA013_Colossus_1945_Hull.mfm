@@ -5,7 +5,7 @@
 		<Texture>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull_ao.dds	</Texture>
 	</property>
 	<property>	detailMap
-		<Texture>	content/gameplay/common/textures/ship_atlas_detail.dds	</Texture>
+		<Texture>	PnFMods/MinasGerais/BSA528_Colossus/ship/ship_atlas_detail.dds	</Texture>
 	</property>
 	<property>	diffuseMap
 		<Texture>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull_a.dds	</Texture>

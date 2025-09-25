@@ -1,14 +1,7 @@
 <BSA013_Colossus_1945_Bow.visual>
-	<node>
-		<identifier>	Scene Root	</identifier>
-		<transform>
-			<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-		</transform>
+	<skeleton>
 		<node>
-			<identifier>	Bow	</identifier>
+			<identifier>	Scene Root	</identifier>
 			<transform>
 				<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
 				<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
@@ -16,34 +9,7 @@
 				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 			</transform>
 			<node>
-				<identifier>	Bow_DeckHouse	</identifier>
-				<transform>
-					<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	Bow_Net	</identifier>
-				<transform>
-					<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	Bow_Net1	</identifier>
-				<transform>
-					<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	Bow_crack_MidFront	</identifier>
+				<identifier>	Bow	</identifier>
 				<transform>
 					<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
@@ -51,7 +17,7 @@
 					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 				</transform>
 				<node>
-					<identifier>	Bow_crack_MidFront_in	</identifier>
+					<identifier>	Bow_DeckHouse	</identifier>
 					<transform>
 						<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
 						<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
@@ -59,53 +25,8 @@
 						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 					</transform>
 				</node>
-			</node>
-			<node>
-				<identifier>	Bow_glass	</identifier>
-				<transform>
-					<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	Bow_patch_MidFront	</identifier>
-				<transform>
-					<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	Bow_wire	</identifier>
-				<transform>
-					<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	Bow_wire_flagfal	</identifier>
-				<transform>
-					<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MidBack_Chimney	</identifier>
-				<transform>
-					<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
 				<node>
-					<identifier>	MidBack_Chimney_wire	</identifier>
+					<identifier>	Bow_Net	</identifier>
 					<transform>
 						<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
 						<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
@@ -113,273 +34,691 @@
 						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 					</transform>
 				</node>
-			</node>
-		</node>
-		<node>
-			<identifier>	Root	</identifier>
-			<transform>
-				<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-			</transform>
-			<node>
-				<identifier>	Bow_Antenna_l_1	</identifier>
-				<transform>
-					<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
-					<row3>	-0.873500 0.694200 -0.381500 1.000000	</row3>
-				</transform>
 				<node>
-					<identifier>	Bow_Antenna_l_1_BlendBone	</identifier>
-					<transform>
-						<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
-						<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
-						<row2>	0.000000 0.000000 -0.000001 0.000000	</row2>
-						<row3>	0.873500 -0.694200 0.381500 1.000000	</row3>
-					</transform>
-				</node>
-				<node>
-					<identifier>	Bow_DeckHouse_Antenna_l_1	</identifier>
+					<identifier>	Bow_Net1	</identifier>
 					<transform>
 						<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
 						<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
 						<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
-						<row3>	0.033500 -0.029700 0.000000 1.000000	</row3>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	Bow_crack_MidFront	</identifier>
+					<transform>
+						<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 					</transform>
 					<node>
-						<identifier>	Bow_DeckHouse_Antenna_l_1_BlendBone	</identifier>
+						<identifier>	Bow_crack_MidFront_in	</identifier>
 						<transform>
 							<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
 							<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
-							<row2>	0.000000 0.000000 -0.000001 0.000000	</row2>
-							<row3>	0.840100 -0.664500 0.381500 1.000000	</row3>
+							<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
+							<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+						</transform>
+					</node>
+				</node>
+				<node>
+					<identifier>	Bow_glass	</identifier>
+					<transform>
+						<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	Bow_patch_MidFront	</identifier>
+					<transform>
+						<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	Bow_wire	</identifier>
+					<transform>
+						<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	Bow_wire_flagfal	</identifier>
+					<transform>
+						<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MidBack_Chimney	</identifier>
+					<transform>
+						<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+					<node>
+						<identifier>	MidBack_Chimney_wire	</identifier>
+						<transform>
+							<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
+							<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 						</transform>
 					</node>
 				</node>
 			</node>
 			<node>
-				<identifier>	Bow_Antenna_r_1	</identifier>
+				<identifier>	Root	</identifier>
 				<transform>
 					<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
-					<row3>	0.846100 0.694200 3.795900 1.000000	</row3>
-				</transform>
-				<node>
-					<identifier>	Bow_Antenna_r_1_BlendBone	</identifier>
-					<transform>
-						<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
-						<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
-						<row2>	0.000000 0.000000 -0.000001 0.000000	</row2>
-						<row3>	-0.846100 -0.694200 -3.795900 1.000000	</row3>
-					</transform>
-				</node>
-				<node>
-					<identifier>	Bow_DeckHouse_Antenna_r_1	</identifier>
-					<transform>
-						<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
-						<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
-						<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
-						<row3>	-0.006100 -0.022800 0.000100 1.000000	</row3>
-					</transform>
-					<node>
-						<identifier>	Bow_DeckHouse_Antenna_r_1_BlendBone	</identifier>
-						<transform>
-							<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
-							<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
-							<row2>	0.000000 0.000000 -0.000001 0.000000	</row2>
-							<row3>	-0.839900 -0.671300 -3.796000 1.000000	</row3>
-						</transform>
-					</node>
-				</node>
-			</node>
-			<node>
-				<identifier>	Root_BlendBone	</identifier>
-				<transform>
-					<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 -0.000001 0.000000	</row2>
 					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 				</transform>
+				<node>
+					<identifier>	Bow_Antenna_l_1	</identifier>
+					<transform>
+						<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
+						<row3>	-0.873500 0.694200 -0.381500 1.000000	</row3>
+					</transform>
+					<node>
+						<identifier>	Bow_Antenna_l_1_BlendBone	</identifier>
+						<transform>
+							<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 -0.000001 0.000000	</row2>
+							<row3>	0.873500 -0.694200 0.381500 1.000000	</row3>
+						</transform>
+					</node>
+					<node>
+						<identifier>	Bow_DeckHouse_Antenna_l_1	</identifier>
+						<transform>
+							<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
+							<row3>	0.033500 -0.029700 0.000000 1.000000	</row3>
+						</transform>
+						<node>
+							<identifier>	Bow_DeckHouse_Antenna_l_1_BlendBone	</identifier>
+							<transform>
+								<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
+								<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
+								<row2>	0.000000 0.000000 -0.000001 0.000000	</row2>
+								<row3>	0.840100 -0.664500 0.381500 1.000000	</row3>
+							</transform>
+						</node>
+					</node>
+				</node>
+				<node>
+					<identifier>	Bow_Antenna_r_1	</identifier>
+					<transform>
+						<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
+						<row3>	0.846100 0.694200 3.795900 1.000000	</row3>
+					</transform>
+					<node>
+						<identifier>	Bow_Antenna_r_1_BlendBone	</identifier>
+						<transform>
+							<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 -0.000001 0.000000	</row2>
+							<row3>	-0.846100 -0.694200 -3.795900 1.000000	</row3>
+						</transform>
+					</node>
+					<node>
+						<identifier>	Bow_DeckHouse_Antenna_r_1	</identifier>
+						<transform>
+							<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
+							<row3>	-0.006100 -0.022800 0.000100 1.000000	</row3>
+						</transform>
+						<node>
+							<identifier>	Bow_DeckHouse_Antenna_r_1_BlendBone	</identifier>
+							<transform>
+								<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
+								<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
+								<row2>	0.000000 0.000000 -0.000001 0.000000	</row2>
+								<row3>	-0.839900 -0.671300 -3.796000 1.000000	</row3>
+							</transform>
+						</node>
+					</node>
+				</node>
+				<node>
+					<identifier>	Root_BlendBone	</identifier>
+					<transform>
+						<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 -0.000001 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
 			</node>
 		</node>
-	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Bow	</node>
-		<geometry>
-			<vertices>	BowShape.vertices	</vertices>
-			<primitive>	BowShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
-					<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Bow_DeckHouse	</node>
-		<geometry>
-			<vertices>	Bow_DeckHouseShape.vertices	</vertices>
-			<primitive>	Bow_DeckHouseShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	TL2_SHIPMAT_PBS_DeckHouse	</identifier>
-					<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Deckhouse.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Bow_Net1	</node>
-		<geometry>
-			<vertices>	Bow_Net1Shape.vertices	</vertices>
-			<primitive>	Bow_Net1Shape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	GRID_Misc1	</identifier>
-					<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/C006_Grid_3_alpha.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Bow_Net	</node>
-		<geometry>
-			<vertices>	Bow_NetShape.vertices	</vertices>
-			<primitive>	Bow_NetShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	GRID_Misc	</identifier>
-					<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/C010_Grid_8_alpha.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Bow_crack_MidFront	</node>
-		<geometry>
-			<vertices>	Bow_crack_MidFrontShape.vertices	</vertices>
-			<primitive>	Bow_crack_MidFrontShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
-					<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Bow_crack_MidFront_in	</node>
-		<geometry>
-			<vertices>	Bow_crack_MidFront_inShape.vertices	</vertices>
-			<primitive>	Bow_crack_MidFront_inShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
-					<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/C002_Razlom.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Bow_glass	</node>
-		<geometry>
-			<vertices>	Bow_glassShape.vertices	</vertices>
-			<primitive>	Bow_glassShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPGLASS_PBS_Hull	</identifier>
-					<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/transparent_glass_alpha.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Bow_patch_MidFront	</node>
-		<geometry>
-			<vertices>	Bow_patch_MidFrontShape.vertices	</vertices>
-			<primitive>	Bow_patch_MidFrontShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
-					<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Bow_wire	</node>
-		<geometry>
-			<vertices>	Bow_wireShape.vertices	</vertices>
-			<primitive>	Bow_wireShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
-					<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull_wire.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Bow_wire_flagfal	</node>
-		<geometry>
-			<vertices>	Bow_wire_flagfalShape.vertices	</vertices>
-			<primitive>	Bow_wire_flagfalShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
-					<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull_wire.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	true	</treatAsWorldSpaceObject>
-		<node>	Bow_DeckHouse_Antenna_l_1_BlendBone	</node>
-		<node>	Bow_Antenna_r_1_BlendBone	</node>
-		<node>	Bow_Antenna_l_1_BlendBone	</node>
-		<node>	Bow_DeckHouse_Antenna_r_1_BlendBone	</node>
-		<geometry>
-			<vertices>	MidBack_ChimneyShape.vertices	</vertices>
-			<primitive>	MidBack_ChimneyShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	TL2_SHIPMAT_PBS_DeckHouse_skinned	</identifier>
-					<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Deckhouse_skinned.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	true	</treatAsWorldSpaceObject>
-		<node>	Bow_Antenna_l_1_BlendBone	</node>
-		<node>	Bow_Antenna_r_1_BlendBone	</node>
-		<geometry>
-			<vertices>	MidBack_Chimney_wireShape.vertices	</vertices>
-			<primitive>	MidBack_Chimney_wireShape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	TL2_SHIPWIRE_PBS_Hull_skinned	</identifier>
-					<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull_wire_skinned.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
 	<boundingBox>
-		<min>	-1.2466 -0.5203 -7.1319	</min>
-		<max>	1.3148 2.7878 7.0654	</max>
+		<min>	-1.2460 -0.5200 -7.1283	</min>
+		<max>	1.3141 2.7864 7.0619	</max>
 	</boundingBox>
+	<renderSets>
+		<renderSet>
+			<name>	BowShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_DeckHouseShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_DeckHouse	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Deckhouse.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_DeckHouse_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_DeckHouse	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Deckhouse.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_DeckHouse_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_DeckHouse	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Deckhouse.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_DeckHouse_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_DeckHouse	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_DeckHouse	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Deckhouse.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_Net1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_Net1	</node>
+			</nodes>
+			<material>
+				<identifier>	GRID_Misc1	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/C006_Grid_3_alpha.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_Net1_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_Net1	</node>
+			</nodes>
+			<material>
+				<identifier>	GRID_Misc1	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/C006_Grid_3_alpha.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_NetShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_Net	</node>
+			</nodes>
+			<material>
+				<identifier>	GRID_Misc	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/C010_Grid_8_alpha.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_Net_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_Net	</node>
+			</nodes>
+			<material>
+				<identifier>	GRID_Misc	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/C010_Grid_8_alpha.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_crack_MidFrontShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_crack_MidFront	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_crack_MidFront_inShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_crack_MidFront_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMAT_PBS_Crack	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_crack_MidFront_in_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_crack_MidFront_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMAT_PBS_Crack	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_crack_MidFront_in_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_crack_MidFront_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMAT_PBS_Crack	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_crack_MidFront_in_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_crack_MidFront_in	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMAT_PBS_Crack	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/C002_Razlom.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_crack_MidFront_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_crack_MidFront	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_crack_MidFront_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_crack_MidFront	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_crack_MidFront_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_crack_MidFront	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_glassShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_glass	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPGLASS_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/transparent_glass_alpha.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_glass_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_glass	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPGLASS_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/transparent_glass_alpha.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_patch_MidFrontShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_patch_MidFront	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_patch_MidFront_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_patch_MidFront	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_patch_MidFront_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_patch_MidFront	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_patch_MidFront_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_patch_MidFront	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_wireShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_wire_flagfalShape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_wire_flagfal	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_wire_flagfal_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_wire_flagfal	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_wire_flagfal_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_wire_flagfal	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_wire_flagfal_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_wire_flagfal	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_wire_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_wire_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bow_wire_lod3Shape	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_wire	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull_wire.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_ChimneyShape	</name>
+			<treatAsWorldSpaceObject>	true	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_DeckHouse_Antenna_l_1_BlendBone	</node>
+				<node>	Bow_Antenna_r_1_BlendBone	</node>
+				<node>	Bow_Antenna_l_1_BlendBone	</node>
+				<node>	Bow_DeckHouse_Antenna_r_1_BlendBone	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_DeckHouse_skinned	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Deckhouse_skinned.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_Chimney_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	true	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_Antenna_l_1_BlendBone	</node>
+				<node>	Bow_DeckHouse_Antenna_l_1_BlendBone	</node>
+				<node>	Bow_Antenna_r_1_BlendBone	</node>
+				<node>	Bow_DeckHouse_Antenna_r_1_BlendBone	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_DeckHouse_skinned	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Deckhouse_skinned.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_Chimney_lod2Shape	</name>
+			<treatAsWorldSpaceObject>	true	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_Antenna_l_1_BlendBone	</node>
+				<node>	Bow_Antenna_r_1_BlendBone	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_DeckHouse_skinned	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Deckhouse_skinned.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_Chimney_wireShape	</name>
+			<treatAsWorldSpaceObject>	true	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_Antenna_l_1_BlendBone	</node>
+				<node>	Bow_Antenna_r_1_BlendBone	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPWIRE_PBS_Hull_skinned	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull_wire_skinned.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	MidBack_Chimney_wire_lod1Shape	</name>
+			<treatAsWorldSpaceObject>	true	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bow_Antenna_l_1_BlendBone	</node>
+				<node>	Bow_Antenna_r_1_BlendBone	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPWIRE_PBS_Hull_skinned	</identifier>
+				<mfm>	PnFMods/MinasGerais/BSA528_Colossus/ship/BSA013_Colossus_1945_Hull_wire_skinned.mfm	</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>	12.0000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets>
+				<renderSet>	BowShape	</renderSet>
+				<renderSet>	Bow_DeckHouseShape	</renderSet>
+				<renderSet>	Bow_Net1Shape	</renderSet>
+				<renderSet>	Bow_NetShape	</renderSet>
+				<renderSet>	Bow_crack_MidFrontShape	</renderSet>
+				<renderSet>	Bow_crack_MidFront_inShape	</renderSet>
+				<renderSet>	Bow_glassShape	</renderSet>
+				<renderSet>	Bow_patch_MidFrontShape	</renderSet>
+				<renderSet>	Bow_wireShape	</renderSet>
+				<renderSet>	Bow_wire_flagfalShape	</renderSet>
+				<renderSet>	MidBack_ChimneyShape	</renderSet>
+				<renderSet>	MidBack_Chimney_wireShape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	28.0000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets>
+				<renderSet>	Bow_DeckHouse_lod1Shape	</renderSet>
+				<renderSet>	Bow_Net1_lod1Shape	</renderSet>
+				<renderSet>	Bow_Net_lod1Shape	</renderSet>
+				<renderSet>	Bow_crack_MidFront_in_lod1Shape	</renderSet>
+				<renderSet>	Bow_crack_MidFront_lod1Shape	</renderSet>
+				<renderSet>	Bow_glass_lod1Shape	</renderSet>
+				<renderSet>	Bow_lod1Shape	</renderSet>
+				<renderSet>	Bow_patch_MidFront_lod1Shape	</renderSet>
+				<renderSet>	Bow_wire_flagfal_lod1Shape	</renderSet>
+				<renderSet>	Bow_wire_lod1Shape	</renderSet>
+				<renderSet>	MidBack_Chimney_lod1Shape	</renderSet>
+				<renderSet>	MidBack_Chimney_wire_lod1Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	50.0000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets>
+				<renderSet>	Bow_DeckHouse_lod2Shape	</renderSet>
+				<renderSet>	Bow_crack_MidFront_in_lod2Shape	</renderSet>
+				<renderSet>	Bow_crack_MidFront_lod2Shape	</renderSet>
+				<renderSet>	Bow_lod2Shape	</renderSet>
+				<renderSet>	Bow_patch_MidFront_lod2Shape	</renderSet>
+				<renderSet>	Bow_wire_flagfal_lod2Shape	</renderSet>
+				<renderSet>	Bow_wire_lod2Shape	</renderSet>
+				<renderSet>	MidBack_Chimney_lod2Shape	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	400.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Bow_DeckHouse_lod3Shape	</renderSet>
+				<renderSet>	Bow_crack_MidFront_in_lod3Shape	</renderSet>
+				<renderSet>	Bow_crack_MidFront_lod3Shape	</renderSet>
+				<renderSet>	Bow_lod3Shape	</renderSet>
+				<renderSet>	Bow_patch_MidFront_lod3Shape	</renderSet>
+				<renderSet>	Bow_wire_flagfal_lod3Shape	</renderSet>
+				<renderSet>	Bow_wire_lod3Shape	</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
 </BSA013_Colossus_1945_Bow.visual>
